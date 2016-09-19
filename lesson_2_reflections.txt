@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+The .git directory is created, but no commits are created. This command puts the directory under
+revision control of git.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It is an area for files to be added to the repository but have not been committed. This seperates out files you eventually
+want to commit from those that you don't want in the repository.
