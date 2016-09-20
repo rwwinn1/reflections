@@ -8,3 +8,7 @@ want to commit from those that you don't want in the repository.
 
 How can you use the staging area to make sure you have one commit per logical change?
 Just put stuff into the staging area that makes sense to commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to try something different in the code but want to preserve the main branch. A branch lets you "branch out"
+and try new things without affecting your base code.
