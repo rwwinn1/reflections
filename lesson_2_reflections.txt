@@ -15,3 +15,8 @@ and try new things without affecting your base code.
 
 How do the diagrams help you visualize the branch structure?
 They show the parent child relations of the commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The branches become a new single branch with the checked out branch receiving the changes.
+We are able now to delete the old branch since all of its changes are now merged into the main branch, though
+the commits are preserved in the history of commits, sorted by timestamp.
