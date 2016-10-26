@@ -20,3 +20,6 @@ What is the result of merging two branches together? Why do we represent it in t
 The branches become a new single branch with the checked out branch receiving the changes.
 We are able now to delete the old branch since all of its changes are now merged into the main branch, though
 the commits are preserved in the history of commits, sorted by timestamp.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging is convenient, but may not be accurate. Manual changes are most accurate, but time consuming.
